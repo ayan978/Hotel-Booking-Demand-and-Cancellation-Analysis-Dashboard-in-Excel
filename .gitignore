@@ -1,0 +1,22 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Excel temporary/lock files
+~$*.xls*
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Jupyter/IPython checkpoints (if you ever add notebooks)
+.ipynb_checkpoints/
+
+# Python cache (if you add scripts)
+__pycache__/
+*.pyc
