@@ -9,7 +9,6 @@ This project uses the **Hotel Booking Demand Dataset**, which contains **119,390
 The dataset includes **32 variables** such as booking dates, length of stay, number of guests, country of origin, distribution channel, deposit type, average daily rate (ADR), and booking status (canceled or not).
 
 - Kaggle (original dataset by Jesse Mostipak): [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  
-- Official article (Data in Brief, 2019): [Hotel booking demand datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191)  
 
 ## Data Cleaning & Preparation
 - Handled missing values.
